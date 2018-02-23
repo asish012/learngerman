@@ -1,3 +1,10 @@
+————————————————————————————
+| machen | to make         |
+| möchte | would like to   |
+| werden | will            |
+| wollen | will you please |
+————————————————————————————
+
 === AD 1.02 ===
 - How long are you staying here?
 - Wie lange bleibst du hier?
@@ -149,11 +156,83 @@
 - Es tut mier leid aber, Ich konnte Sie nicht verstehen.
 
 
-=== AD 1.11 ===
+=== AD 1.11 === [have, being right]
+- I wouldn't be able to do it.
+- Ich würde es nicht tun konnen.
+
+= Ich habe
+= Wir haben
+= Sie haben
+= Sie haben
+= Er hat
+= Du hast
+
+- You are right.
+- Sie haben recht.
+
+- rechts = right side
+- links  = left side
+
+- You are right.
+- Sie haben recht.
+- Du hast recht.
+
+- Why don't you buy it?
+- Warum kaufen Sie es nicht?
+
+- Why don't you want to buy it?
+- Warum wollen Sie es nicht kaufen?
+
+- Where are you going to buy it?
+- Wo werden Sie es kaufen?
+
+- Why won't you buy it?
+- Warum werden Sie es nicht kaufen?
+
+=== AD 1.12 === [bought = gekauft, still = noch]
+- I bought it.
+- Ich habe es gekauft.
+
+* "Have" is diving word toward the Past.
+* Have + PastParticiple = Haben + ("ge" + Verb in third person form)
+
+- Ich habe es nicht gekauft.
+
+- still/still more = noch
+
+- still more something.
+- noch etwas.
+
+- I want something more.
+- Ich will noch etwas.
+
+- I want to eat something more.
+- Ich will noch etwas essen.
+
+- a little more = noch ein wenig = noch ein bisschen = noch etwas
+- biss = bit ["chen" of bisschen is the deminitive]
+
+- not yet = still not = noch nicht
+
+- He didn't buy it yet.
+- Er hat es noch nicht gekauft.
+
+- Ich habe es noch nicht gekauft.
+
+- Why didn't you buy it?
+- Warum haben Sie es noch nicht gekauft?
+
+- to make = machen
+
+- He has made it.
+- Er hat es gemacht.
+
+- to laugh = lachen
+
+- He laughed
+- Er hat gelacht.
 
 
-
-=== AD 1.12 ===
 === AD 1.13 ===
 === AD 1.14 ===
 === AD 1.15 ===
