@@ -39,13 +39,13 @@
 - I can't do it.
 - Ich kann es nicht tun.
 
-- Konnen Sie es tun?
+- können Sie es tun?
 - Konnst du es tun?
 
-- Warum konnen Sie es nicht tun? [why can't you do it? (stress on "can not")] [preferred]
-- Warum konnen Sie nicht es tun? [why can you not do it? (stress on "not do")]
+- Warum können Sie es nicht tun? [why can't you do it? (stress on "can not")] [preferred]
+- Warum können Sie nicht es tun? [why can you not do it? (stress on "not do")]
 
-- Warum konnen Sie es jetzt nicht tun?
+- Warum können Sie es jetzt nicht tun?
 
 - Ich kann es nicht finden. Ich weiss nicht wo es ist.
 - Ich kanns nicht finden. Ich weiss nicht wo es ist.
@@ -53,10 +53,10 @@
 - Er kanns nicht verstehen.
 - Er kann mich nicht verstehen.
 
-- Warum konnen Sie mich nicht verstehen?
+- Warum können Sie mich nicht verstehen?
 
 
-=== AD 1.05 ===
+=== AD 1.05 === []
 - Ich werde es Ihnen speter sagen.
 
 - Um wie viel uhr werden Sie hier sein?
@@ -71,48 +71,48 @@
 - Wohin wollen Sie gehen?
 
 
-=== AD 1.06 ===
+=== AD 1.06 === [to be able = können]
 - To be able
-- kannen
+- können
 
 - He will not be able to find it.
-- Er wird es nicht finden konnen.
+- Er wird es nicht finden können.
 
 - He won't be able to tell it to you because he doesn't know it.
-- Er wird es ihnen nicht sagen konnen, wheil, er nicht es wissen.
+- Er wird es ihnen nicht sagen können, wheil, er nicht es wissen.
 [denn er wiss es nicht.]
 
 - He won't be able to do it.
-- Er wird es nicht tun konnen.
+- Er wird es nicht tun können.
 
 
-=== AD 1.07 ===
+=== AD 1.07 === [that + something-pointed-by-that]
 - That he won't be able to do.
 [that + he won't be able to do] ~ [das + invert]
-- Das wird er nicht tun konnen.
-- Er wird das nicht tun konnen.
+- Das wird er nicht tun können.
+- Er wird das nicht tun können.
 
 * That I won't be able to do.
-* Das Werde Ich nicht tun konnen.
+* Das Werde Ich nicht tun können.
 
 
-=== AD 1.08 ===
+=== AD 1.08 === [würden]
 - would = würden
 
 - I wouldn't be able to do it.
-- Ich würde es nicht tun konnen.
+- Ich würde es nicht tun können.
 
 - He wouldn't be able to do it.
-- Er würde es nicht tun konnen.
+- Er würde es nicht tun können.
 
 - He wouldn't do it.
 - Er würde es nicht tun.
 
 - He would never be able to do it.
-- Er würde es nie tun konnen.
+- Er würde es nie tun können.
 
 
-=== AD 1.09 ===
+=== AD 1.09 === [niemals]
 - never = nie
 - never = niemals
 
@@ -129,7 +129,7 @@
 - Ich werde die zeitung lesen.
 
 
-=== AD 1.10 === [ könnten & konnten ]
+=== AD 1.10 === [könnten & konnten]
 - könnten = could
 
 - könnten Sie mit mier kommen?
