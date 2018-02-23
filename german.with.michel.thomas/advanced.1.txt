@@ -129,10 +129,30 @@
 - Ich werde die zeitung lesen.
 
 
-=== AD 1.10 ===
+=== AD 1.10 === [ könnten & konnten ]
+- könnten = could
+
+- könnten Sie mit mier kommen?
+- könntest du mit mier kommen?
+
+- IN ENGLISH
+    - Could = would you be able to? [Future]
+    - Could = was not able to ..... [Past]
+- IN GERMAN
+    - Could [Past] = Konnten
+    - Could [Present/Future] = Könnten
+
+- could wait for me?
+- könnten Sie auf mich warten?
+- könnten Sie mier sagen wo es ist?
+
+- Es tut mier leid aber, Ich konnte Sie nicht verstehen.
 
 
 === AD 1.11 ===
+
+
+
 === AD 1.12 ===
 === AD 1.13 ===
 === AD 1.14 ===
@@ -145,5 +165,3 @@
 === AD 1.21 ===
 === AD 1.22 ===
 === AD 1.23 ===
-
-
