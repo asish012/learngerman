@@ -143,11 +143,11 @@
 - könntest du mit mier kommen?
 
 - IN ENGLISH
-    - Could = would you be able to? [Future]
+    - Could = would you be able to? [Present/Future]
     - Could = was not able to ..... [Past]
 - IN GERMAN
-    - Could [Past] = Konnten
     - Could [Present/Future] = Könnten
+    - Could [Past] = Konnten
 
 - could wait for me?
 - könnten Sie auf mich warten?
@@ -234,6 +234,83 @@
 
 
 === AD 1.13 ===
+- buy - kaufen
+- sell - verkaufen [not detachable]
+
+[detachable prefix of verbs: weg, zurück]
+- to go - gehen
+- to go away - weggehen
+
+- I'm going away.
+- Ich gehe weg.
+
+- to come   - kommen
+- come back - zurückkommen
+- go back   - zurückgehen
+
+- He is coming back soon.
+- Er kommt bald zurück.
+
+- He will come back soon.
+- Er wird bald zurückkommen.
+
+[non detachable prefix for verbs: ver]
+- I'm selling it.
+- Ich verkaufe es.
+
+* for not detachable verb, on "diving" part (have/has case): don't add the "ge" prefix.
+
+- I've sold it.
+- Ich habe es verkauft.
+
+- He has sold it.
+- Er hat es verkauft.
+
+- He hasn't sold it yet.
+- Er hat es noch nicht verkauft.
+
+- We've sold it.
+- Wir haben es verkauft.
+
+- You sold it.
+- Sie haben es verkauft.
+
+- Die haben es verkauft.
+- Du hast es verkauft.
+
+- Why did you sell it? / Why have you sold it?
+- Warum haben Sie es verkauft?
+- Warum hast du es verkauft?
+
+- Why didn't you sell it? / Why have you not sold it?
+- Warum hast du es nicht verkauft?
+
+- Warum haben Sie es noch nicht verkauft?
+
+- Everithing is sold.
+- Alles ist verkauft.
+
+- It is not sold yet.
+- Es ist noch nicht verkauft.
+
+
+- He told me.
+- Er hat mier gesagt.
+
+- Warum hast du mier nicht gesagt?
+- Why didn't you tell me?
+
+- Wir haben es Ihnen gesagt.
+- Wir haben es dir gesagt.  [to you (friend) = dir]
+- We have told it to you.
+
+- He told me that he wouldn't do it.
+- Er hat mier gesagt, dass Er es nicht tun wurde.       [while situation]
+
+- He didn't tell me that he will do it.
+- Er hat mier nicht gesagt, dass Er es tun werd.
+
+
 === AD 1.14 ===
 === AD 1.15 ===
 === AD 1.16 ===
