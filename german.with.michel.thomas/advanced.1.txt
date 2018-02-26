@@ -198,7 +198,7 @@
 
 - Ich habe es nicht gekauft.
 
-- still/still more = noch
+- still/yet/more = noch
 
 - still more something.
 - noch etwas.
@@ -311,8 +311,86 @@
 - Er hat mier nicht gesagt, dass Er es tun werd.
 
 
-=== AD 1.14 ===
+=== AD 1.14 === [Past of verbs with "ieren" ending]
+- to repair - reparieren - repariert
+
+- I'm repairing it.
+- Ich repariere es.
+
+- He is repairing it.
+- Er repariert es.
+
+* Past form of all the *ieren verb don't include the prefix "ge".
+* eg: reparieren -> repariert
+
+- I have repaired it.
+- Ich habe es repariert.
+
+- to organize - organisieren - organisiert
+
+- He organised it.
+- Er hat es organisiert.
+
+- to specialize - specalisieren - specalisiert
+- to control - kontrollieren - kontrolliert
+
+- He controled it.
+- Er hat es kontrolliert.
+
+- It is controled.
+- Es ist kontrolliert.
+
+- It is well organised.
+- Es ist seher gut organisiert.
+
+- Er hat es organisiert.
+- Alles ist seher gut organisiert.
+
+
 === AD 1.15 ===
+- Everithing is sold.
+- Alles ist verkauft.
+
+- Ich have es verkauft.
+
+- had - hatten
+- wir hatten
+- Sie hatten
+- ich hatte
+- er hatte
+- du hattest
+
+- I had sold it.
+- Ich hatte es verkauft.
+
+- I had it.
+- Ich hatte es.
+
+- I didn't have it.
+- Ich hatte es nicht.
+
+- I would have it.
+- Ich wurde es haben.
+
+- I wouldn't have it.
+- Ich wurde es nicht haven.
+
+* I had it sold.
+* Ich hatte es verkauft.
+
+- I wouldn't have time to do it.
+- Ich wurde nicht die zeit haben es zu tun.
+- Ich wurde keine zeit haben es zu tun.
+
+- would have - hätte
+
+- I wouldn't have the time to do it. (may not have the time)
+- Ich hätte keine die zeit es zu tun.
+
+- I wouldn't have bought it, because it was very expensive.
+- Ich hätte es nicht gekauft, wheil es seher teur war.
+
+
 === AD 1.16 ===
 === AD 1.17 ===
 === AD 1.18 ===
