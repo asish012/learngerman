@@ -519,3 +519,4 @@
 
 -
 === AD 1.23 ===
+- I couldn't have done it = I wouldn't have been able to do it.
