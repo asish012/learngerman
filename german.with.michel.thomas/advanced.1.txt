@@ -347,7 +347,7 @@
 - Alles ist seher gut organisiert.
 
 
-=== AD 1.15 ===
+=== AD 1.15 === [would have]
 - Everithing is sold.
 - Alles ist verkauft.
 
@@ -382,7 +382,7 @@
 - Ich wurde nicht die zeit haben es zu tun.
 - Ich wurde keine zeit haben es zu tun.
 
-- would have - hätte
+- would have - hätten
 
 - I wouldn't have the time to do it. (may not have the time)
 - Ich hätte keine die zeit es zu tun.
@@ -392,10 +392,130 @@
 
 
 === AD 1.16 ===
+- were - waren
+
+- Where were you last night?
+- Wo waren Sie gestern abend?
+
+- He was there.
+- Er war da.
+
+- Er war nicht da.
+
+- Wo waren Sie?
+- Wo warst du?
+
+- true - wahr
+
+- It was true.
+- Es war wahr.
+
+- really - wirklich
+
+- It was really true.
+- Es war wirklich wahr.
+
+- It is really like that.
+- Es ist wirklich so.
+
+
 === AD 1.17 ===
-=== AD 1.18 ===
+- to believe - glauben
+- to think - denken
+
+- I don't think.
+- Ich glaube nicht. [don't use: Ich denke nicht.]
+
+- I don't think that he will come with us.
+- Ich glaube nicht dass er mit uns kommen werd.
+
+
+=== AD 1.18 === [would have/may have/might have]
+- to see - sehen - gesehen
+
+- I saw it. / I've seen it.
+- Ich habe es gesehen.
+
+- I had seen it.
+- Ich hatte es gesehen.
+
+- I would have seen it.
+- Ich hätte es gesehen.
+
+- I would have told you.
+- Ich hätte es Ihnen gesagt.
+
+- He wouldn't have told me.
+- Er hätte es mier nicht gesagt.
+
+- We would have told you.
+- Wir hätten es Ihnen gesagt.
+
+- If you had told me.           ["wenn" is a while situation]
+- Wenn Sie mier gesagt hätten.  [If <something> had : Wenn always followed by hätten]
+
+- I would have bought it if I had seen it.
+- Ich hätte es gekauft, wenn Ich es gesehen hätte.
+
+- wait - warten - gewartet
+
+- If you had told me that you would arrive today, I would have waited for you.
+- Wenn Sie mier gesagt hätten dass Sie heute ankommen wurden, hätte Ich auf Sie gewartet.
+
+
 === AD 1.19 ===
+- I waited for you.
+- Ich hatte auf Sie gewartet.
+
+- How long did you wait?
+- Wie lange haben Sie gewartet?
+
+- He waited for me.
+- Er hat auf mich gewartet.
+
+
 === AD 1.20 ===
+- Did you wait for me?
+- Hatten Sie auf mich gewartet?
+
+- Will you wait for me?
+- Werden Sie auf mich warten?
+
+- I want.
+- Ich will.
+- He wants.
+- Er will.
+
+- He doesn't want to do it.
+- Er will es nicht tun.
+- Er wills nicht tun.
+
+- Why don't you want to do it?
+- Warum wollen Sie es nicht tun?
+- Warum willst du es nicht tun?
+
+
 === AD 1.21 ===
-=== AD 1.22 ===
+- Can you do it?
+- Konnen Sie es tun?
+
+- Could you tell me?
+- Konnten Sie mier sagen?
+
+- to look for/search - suchen
+
+- I look for it.
+- Ich habe es gesucht.
+
+- I looked for it, but I couldn't find it.
+- Ich habe es gesucht, wheil Ich es nicht finden konnte.
+
+
+=== AD 1.22 === [been able (handle)]
+- been able - konnen
+
+- I have not been able to do it.
+- Ich habe es nicht tun konnen.
+
+-
 === AD 1.23 ===
