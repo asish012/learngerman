@@ -5,6 +5,15 @@
 | wollen | will you please |
 ————————————————————————————
 
+————————————————————————————
+| have       | haben       |
+| had        | hatte       |
+| would have | hätte       |
+————————————————————————————
+| Will       | werden      |
+| Would      | würden      |
+————————————————————————————
+
 === AD 1.02 ===
 - How long are you staying here?
 - Wie lange bleibst du hier?
@@ -465,7 +474,7 @@
 - wait - warten - gewartet
 
 - If you had told me that you would arrive today, I would have waited for you.
-- Wenn Sie mier gesagt hätten dass Sie heute ankommen wurden, hätte Ich auf Sie gewartet.
+- Wenn Sie mier gesagt hätten dass Sie heute ankommen würden, hätte Ich auf Sie gewartet.
 
 
 === AD 1.19 ===
