@@ -383,6 +383,11 @@
 - Ich wurde keine zeit haben es zu tun.
 
 - would have - hätten
+————————————————————————————
+| have       | haben       |
+| had        | hatte       |
+| would have | hätte       |
+————————————————————————————
 
 - I wouldn't have the time to do it. (may not have the time)
 - Ich hätte keine die zeit es zu tun.
@@ -520,3 +525,30 @@
 -
 === AD 1.23 ===
 - I couldn't have done it = I wouldn't have been able to do it.
+
+
+————————————————————————————————————————————————————————————————————————————|
+| Weil-situation                                                            |
+————————————————————————————————————————————————————————————————————————————|
+|-> Because (weil)                                                          |
+|   - Because I must have it                                                |
+|   = weil Ich es haben muss                                                |
+|                                                                           |
+|-> "um wie viel Uhr" found in the middle of a sentence                     |
+|   - Can you please tell me, at what time can I have it?                   |
+|   = Um wie viel Uhr Ich es haben kann?                                    |
+|                                                                           |
+|   - I cannot tell you now why I must have it today                        |
+|   = Ich kann Ihnen nicht jetzt sagen, warum ich es heute haben muss.      |
+|                                                                           |
+|-> "wann" found in the middle of a sentence                                |
+|   -                                                                       |
+|                                                                           |
+|-> "warum" triggers a weil-situation                                       |
+|   -                                                                       |
+|                                                                           |
+|-> "dass" triggers a weil-situation                                        |
+|   -                                                                       |
+|                                                                           |
+|-> "wenn" triggers a weil-situation                                        |
+————————————————————————————————————————————————————————————————————————————|
