@@ -1,17 +1,21 @@
 ————————————————————————————
-| machen | to make         |
-| möchte | would like to   |
-| werden | will            |
-| wollen | will you please |
+| machen  | to make         |
+| möchte  | would like to   |
+| werden  | will            |
+| wollen  | will you please |
 ————————————————————————————
 
 ————————————————————————————
-| have       | haben       |
-| had        | hatte       |
-| would have | hätte       |
+| have          | haben     |
+| had           | hatte     |
+| would have    | hätte     |
 ————————————————————————————
-| Will       | werden      |
-| Would      | würden      |
+| Will          | werden    |
+| Would         | würden    |
+————————————————————————————
+| can           | können    |
+| could (past)  | konnten   |
+| could (future)| Könnten   |
 ————————————————————————————
 
 === AD 1.02 ===
@@ -167,7 +171,7 @@
 
 === AD 1.11 === [have, being right]
 - I wouldn't be able to do it.
-- Ich würde es nicht tun konnen.
+- Ich würde es nicht tun können.
 
 = Ich habe
 = Wir haben
@@ -356,7 +360,7 @@
 - Alles ist seher gut organisiert.
 
 
-=== AD 1.15 === [would have]
+=== AD 1.15 === [would have = hätten]
 - Everithing is sold.
 - Alles ist verkauft.
 
@@ -444,7 +448,7 @@
 - Ich glaube nicht dass er mit uns kommen werd.
 
 
-=== AD 1.18 === [would have/may have/might have]
+=== AD 1.18 === [would have/may have/might have = hätten]
 - to see - sehen - gesehen
 
 - I saw it. / I've seen it.
@@ -511,7 +515,7 @@
 
 === AD 1.21 ===
 - Can you do it?
-- Konnen Sie es tun?
+- können Sie es tun?
 
 - Could you tell me?
 - Konnten Sie mier sagen?
@@ -525,16 +529,42 @@
 - Ich habe es gesucht, wheil Ich es nicht finden konnte.
 
 
-=== AD 1.22 === [been able (handle)]
-- been able - konnen
+=== AD 1.22 === [handles in past form: could, wanted, ...]
+- been able - können
 
 - I have not been able to do it.
-- Ich habe es nicht tun konnen.
+- I could not do it.
+- Ich habe es nicht tun können.
 
--
+- wollen - to want
+
+- I want it.
+- Ich will es.
+
+- I don't want it.
+- Ich will es nicht.
+
+- I want to do it.
+- Ich will es tun.
+
+- I wanted to do it.
+- Ich habe es tun wollen.
+
+- He did not want to do it.
+- Er hat es nicht tun wollen.
+
+- I could do it.
+- Ich have es tun können.
+
 === AD 1.23 ===
 - I couldn't have done it = I wouldn't have been able to do it.
+- Ich hätte es ohne Sie nicht tun können.
 
+- You could have told it me.
+- Sie hätten es mir sagen können.
+
+- I could have done it.
+- Ich hätte es tun können.
 
 ————————————————————————————————————————————————————————————————————————————|
 | Weil-situation                                                            |
@@ -556,14 +586,14 @@
 |-> "wenn" triggers a weil-situation                                        |
 |   -                                                                       |
 |                                                                           |
-|-> "warum" triggers a weil-situation                                       |
-|   -                                                                       |
-|                                                                           |
 |-> "dass" triggers a weil-situation                                        |
 |                                                                           |
 |                                                                           |
 |-> "wo" triggers a weil-situation                                          |
 |                                                                           |
+|                                                                           |
+|-> "warum" triggers a weil-situation                                       |
+|   -                                                                       |
 |                                                                           |
 |# Another word for "because" is "da"                                       |
 |-> "da" triggers a weil-situation                                          |
