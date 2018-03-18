@@ -1,0 +1,194 @@
+—————————————————————————————
+| machen  | to make         |
+| möchte  | would like to   |
+| werden  | will            |
+| wollen  | will you please |
+—————————————————————————————
+
+—————————————————————————————
+| have          | haben     |
+| had           | hatte     |
+| would have    | hätte     |
+—————————————————————————————
+| had to        | musste    |
+—————————————————————————————
+| will          | werden    |
+| would         | würden    |
+—————————————————————————————
+| want          | wollen    |
+| wanted        | wolte     |
+—————————————————————————————
+| can           | können    |
+| could (past)  | konnten   |
+| could (future)| Könnten   |
+—————————————————————————————————————
+| could have    | hätten ... können |
+| should have   | hätten ... sollen |
+| would have    | hätte             |
+—————————————————————————————————————
+| shall/should  | sollen    |
+| should        | sollten   |
+—————————————————————————————————————————————————————————————————
+|# wollen works two ways                                        |
+|- as verb                                                      |
+|    - Ich habe ... gewolt.     (I would have ...)              |
+|    - Ich wolte ...            (I would have ...)              |
+|- as handle (like [hätte ... wollen])                          |
+|    - Ich habe es tun wollen.  (I have wanted to do it.)       |
+|    - Ich hätte es tun wollen. (I would have wanted to do it.) |
+—————————————————————————————————————————————————————————————————
+
+
+=== AD 2.01 ===
+
+=== AD 2.02 ===
+=== AD 2.03 ===
+=== AD 2.04 ===
+=== AD 2.05 ===
+=== AD 2.06 ===
+=== AD 2.07 ===
+—————————————————————————————
+| Ich soll                  |
+| Er soll                   |
+| Wir sollen                |
+| Sie sollen                |
+| Du sollst                 |
+—————————————————————————————
+
+- You should(shall) have told me.
+- Sie sollen mir sagen.
+
+- You should(shall) come with us.
+- Sie sollen mit uns kommen.
+
+- You should go there with us.
+- Sie solten mit uns dorthin gehen.
+
+- I was supposed to go there yesterday. (should in past)
+- Ich sollte gestern dorthin gehen.
+
+- I was supposed to go there yesterday, but I couldn't, because I was very busy.
+- Ich sollte gestern dorthin gehen aber Ich konnte nicht, weil Ich sehr beschaftigt war.
+
+- I was very busy yesterday.
+- Ich war gestern sehr beschaftigt.
+
+- I couldn't go there with you.
+- Ich konnte nicht mit ihnen dorthin gehen.
+
+- I should prepare it.
+- Ich sollte es vorbereiten.
+
+- I was supposed to prepare it yesterday.
+- Ich sollte es gestern vorbereiten.
+
+- I should do it now.
+- Ich sollte es jetzt tun.
+
+
+=== AD 2.08 === [could have = hätten ... können | should have = hätten ... sollen]
+- konnten Sie mir sagen.
+
+- You could have told me.
+- Sie hätten mir sagen können.
+
+- Sie hätten es kaufen können.
+
+- Sie hätten mir sagen sollen.
+
+- You should have told me, and I would have bought it for you.
+- Sie hätten es mir sagen sollen, und I hätte es für Sie gekauft.
+
+- You should have told me, and I could have bought it for you.
+- Sie hätten es mir sagen sollen, und Ich hätte es für Sie kaufen können.
+
+# I would buy it for you.
+# Ich würde es für Sie kaufen.
+
+# I would have bought it for you.
+# Ich hätte es für Sie gekauft.
+
+# I could have bought it for you.
+# Ich hätte es für Sie kaufen können.
+
+# I should have bought it for you.
+# Ich hätte es für Sie kaufen sollen.
+
+=== AD 2.09 ===
+
+
+=== AD 2.10 ===
+# wollen works two ways
+- as verb
+    - Ich habe ... gewolt.
+- as handle (like [hätte ... wollen])
+    - Ich habe es tun wollen.  (I have wanted to do it.)
+    - Ich hätte es tun wollen. (I would have wanted to do it.)
+
+- I have wanted to do it.
+- Ich habe es tun wollen.
+
+- I would have wanted to do it.
+- Ich hätte es tun wollen.
+
+- I wanted to see it.
+- Ich wolte es sehen.
+
+- I couldn't see it.
+- I konnte es nicht sehen.
+
+- I couldn't wait because I had to leave.
+- Ich konnte nicht warten, weil Ich musste weggehen.
+
+- I could have gone there with you.
+- Ich hätte gestern abend mit Ihnen dorthin gehen können.
+
+- You should have gone there with us.
+- Sie hätten mit uns dorthin gehen sollen.
+
+=== AD 2.11 ===
+=== AD 2.12 ===
+=== AD 2.13 ===
+=== AD 2.14 ===
+=== AD 2.15 ===
+=== AD 2.16 ===
+=== AD 2.17 ===
+=== AD 2.18 ===
+=== AD 2.19 ===
+=== AD 2.20 ===
+
+
+————————————————————————————————————————————————————————————————————————————|
+| Weil-situation                                                            |
+————————————————————————————————————————————————————————————————————————————|
+|-> Because (weil)                                                          |
+|   - Because I must have it                                                |
+|   - weil Ich es haben muss                                                |
+|                                                                           |
+|-> "um wie viel Uhr" found in the middle of a sentence                     |
+|   - Can you please tell me, at what time can I have it?                   |
+|   - Um wie viel Uhr Ich es haben kann?                                    |
+|                                                                           |
+|   - I cannot tell you now why I must have it today                        |
+|   - Ich kann Ihnen nicht jetzt sagen, warum ich es heute haben muss.      |
+|                                                                           |
+|-> "wann" found in the middle of a sentence                                |
+|   -                                                                       |
+|                                                                           |
+|-> "wenn" triggers a weil-situation                                        |
+|   -                                                                       |
+|                                                                           |
+|-> "dass" triggers a weil-situation                                        |
+|                                                                           |
+|                                                                           |
+|-> "wo" triggers a weil-situation                                          |
+|                                                                           |
+|                                                                           |
+|-> "warum" triggers a weil-situation                                       |
+|   -                                                                       |
+|                                                                           |
+|# Another word for "because" is "da"                                       |
+|-> "da" triggers a weil-situation                                          |
+|   - Because I was not there.                                              |
+|   - da Ich nicht da war.                                                  |
+————————————————————————————————————————————————————————————————————————————|
