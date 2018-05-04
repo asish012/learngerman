@@ -38,6 +38,11 @@
 |    - Ich hätte es tun wollen. (I would have wanted to do it.) |
 —————————————————————————————————————————————————————————————————
 
+—————————————————————————————————————
+| is getting / is becoming  | wird  |
+| was getting               | wurde |
+—————————————————————————————————————
+
 
 === AD 2.01 ===
 
@@ -140,16 +145,147 @@
 - I couldn't wait because I had to leave.
 - Ich konnte nicht warten, weil Ich musste weggehen.
 
-- I could have gone there with you.
+- I could have bought it for you.
+- Ich hätte es für Sie kaufen können.
+
+- I could have gone there with you last night.
 - Ich hätte gestern abend mit Ihnen dorthin gehen können.
 
 - You should have gone there with us.
 - Sie hätten mit uns dorthin gehen sollen.
 
 === AD 2.11 ===
+- I was there.
+- Ich war da.
+
+- Nobody
+- Niemand
+
+- Nobody was there.
+- Niemand war da.
+
+- Who was there with you last night?
+- Wer war da mit ihnen gestern abend?
+
+- It was not possible to do it.
+- Es war nicht möglich es zu tun.
+
 === AD 2.12 ===
+- Seek/look for
+- Suchen
+
+- Try
+- Versuchen
+
+- I'm trying.
+- Ich versuche.
+
+- Succeed = It is succesful to me.
+- Es gelingt mir.
+
+- I don't succeed.
+- Es gelingt mir nicht.
+
+- I don't succeed doing it.
+- Es gelingt mir nicht es zu tun.
+
+- I won't succeed doing it ~ It will not be succesful to do it.
+- Es wird mir nicht gelingen es zu tun.
+
 === AD 2.13 ===
+# Lassen = to leave.
+- I left the key on the table.
+- Ich habe den schlüssel auf dem tisch gelassen.
+
+# Lassen = to let.
+- Let me try.
+- Lassen Sie mich versuchen.
+
+- Let me work.
+- Lassen Sie mich arbeiten.
+
+- Leave me alone.
+- Lassen Sie mich in ruhe.
+
+# Lassen = to get something done ~ let ...
+- I'll get it repared.
+- Ich werde es reparieren lassen.
+
+- I'll have it prepared.
+- Ich werde es präparieren lassen.
+
+- I must have it washed.
+- Ich muss es waschen lassen.
+
+- Clean = Rein
+- I'll have it cleaned.
+- Ich werde es reinigen lassen.
+
 === AD 2.14 ===
+- He will be here soon.
+- Er wird balt hier sein.
+
+- Necessary
+- Nötig
+
+- It won't be necessary.
+- Es wird nicht nötig sein.
+
+- Necessary
+- Notwendig
+
+- Wird = future for english "will"
+- Wird = present of "werden" ~ to become, to be getting.
+
+- I'm tired.
+- Ich bin müde.
+
+- I will be tired.
+- Ich werde müde sein.
+
+- I'm getting tired.
+- Ich werde müde.
+
+- I will be getting tired.
+- Ich werde müde werden.
+
+- You will be too tired.
+- Sie werden zu müde sein.
+
+- You will be soon getting tired.
+- Sie werden balt müde werden.
+
+- It is late.
+- Es its spät.
+
+- It's getting late.
+- Es wird spät.
+
+- It will be very dark.
+- Es wird zu dunkel sein.
+
+- It is getting dark.
+- Es wird dunkel.
+
+- It will be soon getting very dark.
+- Es wird balt zu dunkel werden.
+
+- Wird = future for english "will"
+- Wird = present of "werden" ~ to become, to be getting.
+- Wurde = was getting
+
+- It was getting dark.
+- Es wurde dunkel.
+
+- It was suddenly getting very dark.
+- Es wurde plötzlich sehr dunkel.
+
+- It would be very dark.
+- Es würde sehr dunkel sein.
+
+- We were getting tired.
+- Wir wurden müde.
+
 === AD 2.15 ===
 === AD 2.16 ===
 === AD 2.17 ===
