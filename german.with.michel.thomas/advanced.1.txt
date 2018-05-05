@@ -204,6 +204,7 @@
 - Why won't you buy it?
 - Warum werden Sie es nicht kaufen?
 
+
 === AD 1.12 === [bought = gekauft, still = noch]
 - I bought it.
 - Ich habe es gekauft.

@@ -45,7 +45,6 @@
 
 
 === AD 2.01 ===
-
 === AD 2.02 ===
 === AD 2.03 ===
 === AD 2.04 ===
@@ -119,9 +118,8 @@
 # I should have bought it for you.
 # Ich hätte es für Sie kaufen sollen.
 
+
 === AD 2.09 ===
-
-
 === AD 2.10 ===
 # wollen works two ways
 - as verb
@@ -154,6 +152,7 @@
 - You should have gone there with us.
 - Sie hätten mit uns dorthin gehen sollen.
 
+
 === AD 2.11 ===
 - I was there.
 - Ich war da.
@@ -169,6 +168,7 @@
 
 - It was not possible to do it.
 - Es war nicht möglich es zu tun.
+
 
 === AD 2.12 ===
 - Seek/look for
@@ -191,6 +191,7 @@
 
 - I won't succeed doing it ~ It will not be succesful to do it.
 - Es wird mir nicht gelingen es zu tun.
+
 
 === AD 2.13 ===
 # Lassen = to leave.
@@ -220,6 +221,7 @@
 - Clean = Rein
 - I'll have it cleaned.
 - Ich werde es reinigen lassen.
+
 
 === AD 2.14 ===
 - He will be here soon.
@@ -286,6 +288,7 @@
 - We were getting tired.
 - Wir wurden müde.
 
+
 === AD 2.15 ===
 - Do you know why he can't to do it?
 - Wissen Sie warum er es nicht tun kann?
@@ -309,6 +312,7 @@
 
 - I wouldn't have known it, if you had not told me.
 - Ich hätte es nicht gewusst, wenn Sie es mir nicht gesagt hatten.
+
 
 === AD 2.16 ===
 === AD 2.17 ===
