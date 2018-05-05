@@ -1,7 +1,7 @@
 —————————————————————————————
 | machen  | to make         |
 | möchte  | would like to   |
-| werden  | will            |
+| werden  | will (future)   |
 | wollen  | will you please |
 —————————————————————————————
 
@@ -15,7 +15,7 @@
 | will          | werden    |
 | would         | würden    |
 —————————————————————————————
-| want          | wollen    |
+| want          | wollen    | Ich will.
 | wanted        | wolte     |
 —————————————————————————————
 | can           | können    |
@@ -287,6 +287,29 @@
 - Wir wurden müde.
 
 === AD 2.15 ===
+- Do you know why he can't to do it?
+- Wissen Sie warum er es nicht tun kann?
+
+- Do you know why he doesn't want to do it?
+- Wissen Sie warum er es nicht tun will.
+
+- Can you tell me why he didn't want to do it?
+- Konnen Sie mir sagen warum er es nicht tun wolte?
+
+- Do you know why he couldn't do it?
+- Wissen Sie warum er es nicht tun konnte?
+
+- Knew = Wusste [don't use: habe gewusst]
+
+- I didn't know.
+- Ich wusste nicht.
+
+- I would have known.
+- Ich hätte es gewusst.
+
+- I wouldn't have known it, if you had not told me.
+- Ich hätte es nicht gewusst, wenn Sie es mir nicht gesagt hatten.
+
 === AD 2.16 ===
 === AD 2.17 ===
 === AD 2.18 ===
