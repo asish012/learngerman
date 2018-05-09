@@ -43,6 +43,12 @@
 | was getting               | wurde |
 —————————————————————————————————————
 
+—————————————————————————
+| No        | Nie       |
+| Never     | Niemals   |
+| Nobody    | Niemand   |
+—————————————————————————
+
 
 === AD 2.01 ===
 === AD 2.02 ===
@@ -59,7 +65,7 @@
 | Du sollst                 |
 —————————————————————————————
 
-- You should(shall) have told me.
+- You should(shall) tell me.
 - Sie sollen mir sagen.
 
 - You should(shall) come with us.
@@ -91,13 +97,15 @@
 
 
 === AD 2.08 === [could have = hätten ... können | should have = hätten ... sollen]
-- konnten Sie mir sagen.
+- könnten Sie mir sagen.
 
 - You could have told me.
 - Sie hätten mir sagen können.
 
+- You could have bought it.
 - Sie hätten es kaufen können.
 
+- You should have told me.
 - Sie hätten mir sagen sollen.
 
 - You should have told me, and I would have bought it for you.
@@ -146,6 +154,9 @@
 - I could have bought it for you.
 - Ich hätte es für Sie kaufen können.
 
+- I would have bought it for you.
+- Ich hätte es für Sie kaufen.
+
 - I could have gone there with you last night.
 - Ich hätte gestern abend mit Ihnen dorthin gehen können.
 
@@ -180,7 +191,7 @@
 - I'm trying.
 - Ich versuche.
 
-- Succeed = It is succesful to me.
+- Succeed = It is successful to me.
 - Es gelingt mir.
 
 - I don't succeed.
