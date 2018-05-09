@@ -154,8 +154,8 @@
 === AD 1.10 === [könnten & konnten]
 - könnten = could
 
-- könnten Sie mit mier kommen?
-- könntest du mit mier kommen?
+- könnten Sie mit mir kommen?
+- könntest du mit mir kommen?
 
 - IN ENGLISH
     - Could = would you be able to? [Present/Future]
@@ -166,9 +166,9 @@
 
 - could wait for me?
 - könnten Sie auf mich warten?
-- könnten Sie mier sagen wo es ist?
+- könnten Sie mir sagen wo es ist?
 
-- Es tut mier leid aber, Ich konnte Sie nicht verstehen.
+- Es tut mir leid aber, Ich konnte Sie nicht verstehen.
 
 
 === AD 1.11 === [have, being right]
@@ -311,9 +311,9 @@
 
 
 - He told me.
-- Er hat mier gesagt.
+- Er hat mir gesagt.
 
-- Warum hast du mier nicht gesagt?
+- Warum hast du mir nicht gesagt?
 - Why didn't you tell me?
 
 - Wir haben es Ihnen gesagt.
@@ -321,10 +321,10 @@
 - We have told it to you.
 
 - He told me that he wouldn't do it.
-- Er hat mier gesagt, dass Er es nicht tun wurde.       [while situation]
+- Er hat mir gesagt, dass Er es nicht tun würde.       [while situation]
 
 - He didn't tell me that he will do it.
-- Er hat mier nicht gesagt, dass Er es tun werd.
+- Er hat mir nicht gesagt, dass Er es tun werd.
 
 
 === AD 1.14 === [Past of verbs with "ieren" ending]
@@ -386,17 +386,17 @@
 - Ich hatte es nicht.
 
 - I would have it.
-- Ich wurde es haben.
+- Ich würde es haben.
 
 - I wouldn't have it.
-- Ich wurde es nicht haven.
+- Ich würde es nicht haven.
 
 * I had it sold.
 * Ich hatte es verkauft.
 
 - I wouldn't have time to do it.
-- Ich wurde nicht die zeit haben es zu tun.
-- Ich wurde keine zeit haben es zu tun.
+- Ich würde nicht die zeit haben es zu tun.
+- Ich würde keine zeit haben es zu tun.
 
 - would have - hätten
 ————————————————————————————
@@ -467,13 +467,13 @@
 - Ich hätte es Ihnen gesagt.
 
 - He wouldn't have told me.
-- Er hätte es mier nicht gesagt.
+- Er hätte es mir nicht gesagt.
 
 - We would have told you.
 - Wir hätten es Ihnen gesagt.
 
 - If you had told me.           ["wenn" is a while situation]
-- Wenn Sie mier gesagt hätten.  [If <something> had : Wenn always followed by hätten]
+- Wenn Sie mir gesagt hätten.  [If <something> had : Wenn always followed by hätten]
 
 - I would have bought it if I had seen it.
 - Ich hätte es gekauft, wenn Ich es gesehen hätte.
@@ -481,7 +481,7 @@
 - wait - warten - gewartet
 
 - If you had told me that you would arrive today, I would have waited for you.
-- Wenn Sie mier gesagt hätten dass Sie heute ankommen würden, hätte Ich auf Sie gewartet.
+- Wenn Sie mir gesagt hätten dass Sie heute ankommen würden, hätte Ich auf Sie gewartet.
 
 
 === AD 1.19 ===
@@ -521,7 +521,7 @@
 - können Sie es tun?
 
 - Could you tell me?
-- Konnten Sie mier sagen?
+- Konnten Sie mir sagen?
 
 - to look for/search - suchen
 
