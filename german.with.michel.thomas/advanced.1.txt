@@ -486,7 +486,7 @@
 
 === AD 1.19 ===
 - I waited for you.
-- Ich hatte auf Sie gewartet.
+- Ich habe auf Sie gewartet.
 
 - How long did you wait?
 - Wie lange haben Sie gewartet?
@@ -555,9 +555,13 @@
 
 - He did not want to do it.
 - Er hat es nicht tun wollen.
+# Don't use "gewollt",
+# Modal verbs placed after another infinite verb (tun) takes infinite form as well.
 
 - I could do it.
 - Ich have es tun können.
+# Don't use "gewollt",
+# Modal verbs placed after another infinite verb (tun) takes infinite form as well.
 
 === AD 1.23 ===
 - I couldn't have done it = I wouldn't have been able to do it.
