@@ -472,7 +472,7 @@
 - We would have told you.
 - Wir hätten es Ihnen gesagt.
 
-- If you had told me.           ["wenn" is a while situation]
+- If you had told me.          ["wenn" is a while situation]
 - Wenn Sie mir gesagt hätten.  [If <something> had : Wenn always followed by hätten]
 
 - I would have bought it if I had seen it.
@@ -552,16 +552,17 @@
 
 - I wanted to do it.
 - Ich habe es tun wollen.
+# Don't use "gewollt",
+# Modal verbs placed after another infinite verb (tun) takes the infinite form as well.
 
 - He did not want to do it.
 - Er hat es nicht tun wollen.
 # Don't use "gewollt",
-# Modal verbs placed after another infinite verb (tun) takes infinite form as well.
+# Modal verbs placed after another infinite verb (tun) takes the infinite form as well.
 
 - I could do it.
 - Ich have es tun können.
-# Don't use "gewollt",
-# Modal verbs placed after another infinite verb (tun) takes infinite form as well.
+# Modal verbs placed after another infinite verb (tun) takes the infinite form as well.
 
 === AD 1.23 ===
 - I couldn't have done it = I wouldn't have been able to do it.
