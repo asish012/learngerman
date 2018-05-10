@@ -20,6 +20,18 @@
 | could have    | hätten __ können |
 ————————————————————————————————————
 
+—————————————————————————————————————
+| - I would have it.                |
+| - Ich würde es haben.             |
+|                                   |
+| - I would have done it.           |
+| - Ich hätte es tun.               |
+| - Ich hätte es gemacht.           |
+|                                   |
+| - I could have done it.           |
+| - Ich hätte es tun können.        |
+—————————————————————————————————————
+
 === AD 1.02 ===
 - How long are you staying here?
 - Wie lange bleibst du hier?
@@ -79,19 +91,28 @@
 
 
 === AD 1.05 === []
-- Ich werde es Ihnen speter sagen.
+- I'll tell you later.
+- Ich werde Ihnen speter sagen.
 
+- At what time will you be here?
 - Um wie viel uhr werden Sie hier sein?
 
+- He will come with us.
 - Er wird mit uns kommen.
 
+- Will you wait for me?
 - Wollen Sie auf mich warten?
 
+- Where will you wait for me?
 - Wo wollen Sie auf mich warten?
 
+- Where do you want to go?
+- Where will you go?
 - Wo wollen Sie gehen?       [X]
 - Wohin wollen Sie gehen?
 
+- I want to do something else.
+- Ich will etwas anderes machen.
 
 === AD 1.06 === [to be able = können]
 - To be able
@@ -112,10 +133,12 @@
 - That he won't be able to do.
 [that + he won't be able to do] ~ [das + invert]
 - Das wird er nicht tun können.
+
+- He won't be able to do it.
 - Er wird das nicht tun können.
 
-* That I won't be able to do.
-* Das Werde Ich nicht tun können.
+- That I won't be able to do.
+- Das Werde Ich nicht tun können.
 
 
 === AD 1.08 === [würden]

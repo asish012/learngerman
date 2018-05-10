@@ -5,8 +5,17 @@
 - I wouldn't have the time to do it. (may not have the time)
 - Ich hätte keine die zeit es zu tun.
 
+- I don't know how long he will stay.
+- Ich weiss nicht wie lange er hier bleiben wird.
+
+- He won't be able to do it.
+- Er wird das nicht tun können.
+
 - I wouldn't have bought it, because it was very expensive.
 - Ich hätte es nicht gekauft, wheil es seher teur war.
+
+- I want to do it.
+- Ich will es tun.
 
 - I would have it.
 - Ich würde es haben.
@@ -20,6 +29,9 @@
 - I wouldn't have time to do it.
 - Ich würde nicht die zeit haben es zu tun.
 - Ich würde keine zeit haben es zu tun.
+
+- He will not be able to find it.
+- Er wird es nicht finden können.
 
 - I would have seen it.
 - Ich hätte es gesehen.
@@ -44,9 +56,6 @@
 - If you had told me that you would arrive today, I would have waited for you.
 - Wenn Sie mier gesagt hätten dass Sie heute ankommen würden, hätte Ich auf Sie gewartet.
 
-- I want to do it.
-- Ich will es tun.
-
 - I wanted to do it.
 - Ich habe es tun wollen.
 # Modal verbs placed after another infinite verb (tun) takes infinite form as well.
@@ -54,6 +63,30 @@
 - He did not want to do it.
 - Er hat es nicht tun wollen.
 # Modal verbs placed after another infinite verb (tun) takes infinite form as well.
+
+- That he won't be able to do.
+[that + he won't be able to do] ~ [das + invert]
+- Das wird er nicht tun können.
+
+- That I won't be able to do.
+- Das Werde Ich nicht tun können.
+
+- I would have it.
+- Ich würde es haben.
+
+- I would have done it.
+- Ich hätte es tun.
+- Ich hätte es gemacht.
+
+- I could have done it.
+- Ich hätte es tun können.
+
+- He won't be able to tell it to you because he doesn't know it.
+- Er wird es ihnen nicht sagen können, wheil, er nicht es wissen.
+[denn er wiss es nicht.]
+
+- He won't be able to do it.
+- Er wird es nicht tun können.
 
 
 —————————————————————————————————

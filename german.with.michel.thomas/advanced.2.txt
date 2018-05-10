@@ -24,7 +24,7 @@
 —————————————————————————————————————
 | could have    | hätten ... können |
 | should have   | hätten ... sollen |
-| would have    | hätte             |
+| would have    | hätten            |
 —————————————————————————————————————
 | shall/should  | sollen    |
 | should        | sollten   |
@@ -37,6 +37,18 @@
 |    - Ich habe es tun wollen.  (I have wanted to do it.)       |
 |    - Ich hätte es tun wollen. (I would have wanted to do it.) |
 —————————————————————————————————————————————————————————————————
+
+—————————————————————————————————————
+| - I would have it.                |
+| - Ich würde es haben.             |
+|                                   |
+| - I would have done it.           |
+| - Ich hätte es tun.               |
+| - Ich hätte es gemacht.           |
+|                                   |
+| - I could have done it.           |
+| - Ich hätte es tun können.        |
+—————————————————————————————————————
 
 —————————————————————————————————————
 | is getting / is becoming  | wird  |
