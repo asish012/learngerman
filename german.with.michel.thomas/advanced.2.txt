@@ -15,8 +15,8 @@
 | will          | werden    |
 | would         | würden    |
 —————————————————————————————
-| want          | wollen    | Ich will.
-| wanted        | wolte     |
+| want          | wollen    | (Ich will)
+| wanted        | wolten    |
 —————————————————————————————
 | can           | können    |
 | could (past)  | konnten   |
@@ -26,14 +26,14 @@
 | should have   | hätten ... sollen |
 | would have    | hätten            |
 —————————————————————————————————————
-| shall/should  | sollen    |
-| should        | sollten   |
+| shall/should  | sollen    | (an order)
+| should        | sollten   | (advice or recommendation)
 —————————————————————————————————————————————————————————————————
 |# wollen works two ways                                        |
 |- as verb                                                      |
 |    - Ich habe ... gewolt.     (I would have ...)              |
 |    - Ich wolte ...            (I would have ...)              |
-|- as handle (like [hätte ... wollen])                          |
+|- as handle (like [hätten ... wollen])                         |
 |    - Ich habe es tun wollen.  (I have wanted to do it.)       |
 |    - Ich hätte es tun wollen. (I would have wanted to do it.) |
 —————————————————————————————————————————————————————————————————
@@ -61,6 +61,18 @@
 | Nobody    | Niemand   |
 —————————————————————————
 
+—————————————————————————————————————————————————————
+| to leave something somewhere / left   | Lassen    |
+| to let                                | Lassen    |
+| to get something done ~ let ...       | Lassen    |
+—————————————————————————————————————————————————————
+
+—————————————————————————————————————————————————————
+| future for english "will"             | Werden    |
+| to become, to be getting.             | Werden    |
+| was getting                           | Wurde     |
+—————————————————————————————————————————————————————
+
 
 === AD 2.01 ===
 === AD 2.02 ===
@@ -77,14 +89,14 @@
 | Du sollst                 |
 —————————————————————————————
 
-- You should(shall) tell me.
+- You should(shall) tell me. (have to / an order)
 - Sie sollen mir sagen.
 
-- You should(shall) come with us.
+- You should(shall) come with us. (have to / an order)
 - Sie sollen mit uns kommen.
 
-- You should go there with us.
-- Sie solten mit uns dorthin gehen.
+- You should go there with us. (advice or recommendation)
+- Sie sollten mit uns dorthin gehen.
 
 - I was supposed to go there yesterday. (should in past)
 - Ich sollte gestern dorthin gehen.
@@ -157,6 +169,9 @@
 - I wanted to see it.
 - Ich wolte es sehen.
 
+- I would see it.
+- Ich würde es sehen.
+
 - I couldn't see it.
 - I konnte es nicht sehen.
 
@@ -216,7 +231,9 @@
 - Es wird mir nicht gelingen es zu tun.
 
 
+***************
 === AD 2.13 ===
+***************
 # Lassen = to leave.
 - I left the key on the table.
 - Ich habe den schlüssel auf dem tisch gelassen.
@@ -246,7 +263,9 @@
 - Ich werde es reinigen lassen.
 
 
+***************
 === AD 2.14 ===
+***************
 - He will be here soon.
 - Er wird balt hier sein.
 
@@ -259,8 +278,8 @@
 - Necessary
 - Notwendig
 
-- Wird = future for english "will"
-- Wird = present of "werden" ~ to become, to be getting.
+- Werden = future for english "will"
+- Werden = to become, to be getting.
 
 - I'm tired.
 - Ich bin müde.
@@ -295,9 +314,9 @@
 - It will be soon getting very dark.
 - Es wird balt zu dunkel werden.
 
-- Wird = future for english "will"
-- Wird = present of "werden" ~ to become, to be getting.
-- Wurde = was getting
+- Werden = future for english "will"
+- Werden = to become, to be getting.
+- Wurde  = was getting
 
 - It was getting dark.
 - Es wurde dunkel.
@@ -312,7 +331,9 @@
 - Wir wurden müde.
 
 
+***************
 === AD 2.15 ===
+***************
 - Do you know why he can't to do it?
 - Wissen Sie warum er es nicht tun kann?
 
