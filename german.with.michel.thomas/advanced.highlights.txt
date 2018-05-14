@@ -21,9 +21,9 @@
 - Ich würde es haben.
 
 - I wouldn't have it.
-- Ich würde es nicht haven.
+- Ich würde es nicht haben.
 
-* I had it sold.
+* I had sold it.
 * Ich hatte es verkauft.
 
 - I wouldn't have time to do it.
@@ -46,7 +46,7 @@
 - Wir hätten es Ihnen gesagt.
 
 - If you had told me.           ["wenn" is a while situation]
-- Wenn Sie mier gesagt hätten.  [If <something> had : Wenn always followed by hätten]
+- Wenn Sie mier gesagt hätten.  ["Wenn" always followed by "hätten"]
 
 - I would have bought it if I had seen it.
 - Ich hätte es gekauft, wenn Ich es gesehen hätte.
