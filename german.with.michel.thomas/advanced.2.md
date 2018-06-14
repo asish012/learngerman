@@ -74,13 +74,26 @@
 —————————————————————————————————————————————————————
 
 
-=== AD 2.01 ===
-=== AD 2.02 ===
-=== AD 2.03 ===
-=== AD 2.04 ===
-=== AD 2.05 ===
-=== AD 2.06 ===
-=== AD 2.07 ===
+AD 2.01
+======
+
+AD 2.02
+======
+
+AD 2.03
+======
+
+AD 2.04
+======
+
+AD 2.05
+======
+
+AD 2.06
+======
+
+AD 2.07
+======
 —————————————————————————————
 | Ich soll                  |
 | Er soll                   |
@@ -89,280 +102,297 @@
 | Du sollst                 |
 —————————————————————————————
 
-- You should(shall) tell me. (have to / an order)
-- Sie sollen mir sagen.
+* You should(shall) tell me. (have to / an order)
+* Sie sollen mir sagen.
 
-- You should(shall) come with us. (have to / an order)
-- Sie sollen mit uns kommen.
+* You should(shall) come with us. (have to / an order)
+* Sie sollen mit uns kommen.
 
-- You should go there with us. (advice or recommendation)
-- Sie sollten mit uns dorthin gehen.
+* You should go there with us. (advice or recommendation)
+* Sie sollten mit uns dorthin gehen.
 
-- I was supposed to go there yesterday. (should in past)
-- Ich sollte gestern dorthin gehen.
+* I was supposed to go there yesterday. (should in past)
+* Ich sollte gestern dorthin gehen.
 
-- I was supposed to go there yesterday, but I couldn't, because I was very busy.
-- Ich sollte gestern dorthin gehen aber Ich konnte nicht, weil Ich sehr beschaftigt war.
+* I was supposed to go there yesterday, but I couldn't, because I was very busy.
+* Ich sollte gestern dorthin gehen aber Ich konnte nicht, weil Ich sehr beschaftigt war.
 
-- I was very busy yesterday.
-- Ich war gestern sehr beschaftigt.
+* I was very busy yesterday.
+* Ich war gestern sehr beschaftigt.
 
-- I couldn't go there with you.
-- Ich konnte nicht mit ihnen dorthin gehen.
+* I couldn't go there with you.
+* Ich konnte nicht mit ihnen dorthin gehen.
 
-- I should prepare it.
-- Ich sollte es vorbereiten.
+* I should prepare it.
+* Ich sollte es vorbereiten.
 
-- I was supposed to prepare it yesterday.
-- Ich sollte es gestern vorbereiten.
+* I was supposed to prepare it yesterday.
+* Ich sollte es gestern vorbereiten.
 
-- I should do it now.
-- Ich sollte es jetzt tun.
-
-
-=== AD 2.08 === [could have = hätten ... können | should have = hätten ... sollen]
-- könnten Sie mir sagen.
-
-- You could have told me.
-- Sie hätten mir sagen können.
-
-- You could have bought it.
-- Sie hätten es kaufen können.
-
-- You should have told me.
-- Sie hätten mir sagen sollen.
-
-- You should have told me, and I would have bought it for you.
-- Sie hätten es mir sagen sollen, und I hätte es für Sie gekauft.
-
-- You should have told me, and I could have bought it for you.
-- Sie hätten es mir sagen sollen, und Ich hätte es für Sie kaufen können.
-
-# I would buy it for you.
-# Ich würde es für Sie kaufen.
-
-# I would have bought it for you.
-# Ich hätte es für Sie gekauft.
-
-# I could have bought it for you.
-# Ich hätte es für Sie kaufen können.
-
-# I should have bought it for you.
-# Ich hätte es für Sie kaufen sollen.
+* I should do it now.
+* Ich sollte es jetzt tun.
 
 
-=== AD 2.09 ===
-=== AD 2.10 ===
-# wollen works two ways
-- as verb
+AD 2.08 [could have = hätten ... können | should have = hätten ... sollen]
+======
+* könnten Sie mir sagen.
+
+* You could have told me.
+* Sie hätten mir sagen können.
+
+* You could have bought it.
+* Sie hätten es kaufen können.
+
+* You should have told me.
+* Sie hätten mir sagen sollen.
+
+* You should have told me, and I would have bought it for you.
+* Sie hätten es mir sagen sollen, und I hätte es für Sie gekauft.
+
+* You should have told me, and I could have bought it for you.
+* Sie hätten es mir sagen sollen, und Ich hätte es für Sie kaufen können.
+
+##### I would buy it for you.
+##### Ich würde es für Sie kaufen.
+
+##### I would have bought it for you.
+##### Ich hätte es für Sie gekauft.
+
+##### I could have bought it for you.
+##### Ich hätte es für Sie kaufen können.
+
+##### I should have bought it for you.
+##### Ich hätte es für Sie kaufen sollen.
+
+
+AD 2.09
+======
+
+
+AD 2.10
+======
+##### wollen works two ways
+* as verb
     - Ich habe ... gewolt.
-- as handle (like [hätte ... wollen])
+* as handle (like [hätte ... wollen])
     - Ich habe es tun wollen.  (I have wanted to do it.)
     - Ich hätte es tun wollen. (I would have wanted to do it.)
 
-- I have wanted to do it.
-- Ich habe es tun wollen.
+* I have wanted to do it.
+* Ich habe es tun wollen.
 
-- I would have wanted to do it.
-- Ich hätte es tun wollen.
+* I would have wanted to do it.
+* Ich hätte es tun wollen.
 
-- I wanted to see it.
-- Ich wolte es sehen.
+* I wanted to see it.
+* Ich wolte es sehen.
 
-- I would see it.
-- Ich würde es sehen.
+* I would see it.
+* Ich würde es sehen.
 
-- I couldn't see it.
-- I konnte es nicht sehen.
+* I couldn't see it.
+* I konnte es nicht sehen.
 
-- I couldn't wait because I had to leave.
-- Ich konnte nicht warten, weil Ich musste weggehen.
+* I couldn't wait because I had to leave.
+* Ich konnte nicht warten, weil Ich musste weggehen.
 
-- I could have bought it for you.
-- Ich hätte es für Sie kaufen können.
+* I could have bought it for you.
+* Ich hätte es für Sie kaufen können.
 
-- I would have bought it for you.
-- Ich hätte es für Sie kaufen.
+* I would have bought it for you.
+* Ich hätte es für Sie kaufen.
 
-- I could have gone there with you last night.
-- Ich hätte gestern abend mit Ihnen dorthin gehen können.
+* I could have gone there with you last night.
+* Ich hätte gestern abend mit Ihnen dorthin gehen können.
 
-- You should have gone there with us.
-- Sie hätten mit uns dorthin gehen sollen.
+* You should have gone there with us.
+* Sie hätten mit uns dorthin gehen sollen.
 
 
-=== AD 2.11 ===
-- I was there.
-- Ich war da.
+AD 2.11
+======
+* I was there.
+* Ich war da.
 
-- Nobody
-- Niemand
+* Nobody
+* Niemand
 
-- Nobody was there.
-- Niemand war da.
+* Nobody was there.
+* Niemand war da.
 
-- Who was there with you last night?
-- Wer war da mit ihnen gestern abend?
+* Who was there with you last night?
+* Wer war da mit ihnen gestern abend?
 
-- It was not possible to do it.
-- Es war nicht möglich es zu tun.
+* It was not possible to do it.
+* Es war nicht möglich es zu tun.
 
 
-=== AD 2.12 ===
-- Seek/look for
-- Suchen
+AD 2.12
+======
+* Seek/look for
+* Suchen
 
-- Try
-- Versuchen
+* Try
+* Versuchen
 
-- I'm trying.
-- Ich versuche.
+* I'm trying.
+* Ich versuche.
 
-- Succeed = It is successful to me.
-- Es gelingt mir.
+* Succeed = It is successful to me.
+* Es gelingt mir.
 
-- I don't succeed.
-- Es gelingt mir nicht.
+* I don't succeed.
+* Es gelingt mir nicht.
 
-- I don't succeed doing it.
-- Es gelingt mir nicht es zu tun.
+* I don't succeed doing it.
+* Es gelingt mir nicht es zu tun.
 
-- I won't succeed doing it ~ It will not be succesful to do it.
-- Es wird mir nicht gelingen es zu tun.
+* I won't succeed doing it ~ It will not be succesful to do it.
+* Es wird mir nicht gelingen es zu tun.
 
 
-***************
-=== AD 2.13 ===
-***************
-# Lassen = to leave.
-- I left the key on the table.
-- Ich habe den schlüssel auf dem tisch gelassen.
+AD 2.13 [***]
+======
+##### Lassen = to leave.
+* I left the key on the table.
+* Ich habe den schlüssel auf dem tisch gelassen.
 
-# Lassen = to let.
-- Let me try.
-- Lassen Sie mich versuchen.
+##### Lassen = to let.
+* Let me try.
+* Lassen Sie mich versuchen.
 
-- Let me work.
-- Lassen Sie mich arbeiten.
+* Let me work.
+* Lassen Sie mich arbeiten.
 
-- Leave me alone.
-- Lassen Sie mich in ruhe.
+* Leave me alone.
+* Lassen Sie mich in ruhe.
 
-# Lassen = to get something done ~ let ...
-- I'll get it repared.
-- Ich werde es reparieren lassen.
+##### Lassen = to get something done ~ let ...
+* I'll get it repared.
+* Ich werde es reparieren lassen.
 
-- I'll have it prepared.
-- Ich werde es präparieren lassen.
+* I'll have it prepared.
+* Ich werde es präparieren lassen.
 
-- I must have it washed.
-- Ich muss es waschen lassen.
+* I must have it washed.
+* Ich muss es waschen lassen.
 
-- Clean = Rein
-- I'll have it cleaned.
-- Ich werde es reinigen lassen.
+* Clean = Rein
+* I'll have it cleaned.
+* Ich werde es reinigen lassen.
 
 
-***************
-=== AD 2.14 ===
-***************
-- He will be here soon.
-- Er wird balt hier sein.
+AD 2.14 [***]
+======
+* He will be here soon.
+* Er wird balt hier sein.
 
-- Necessary
-- Nötig
+* Necessary
+* Nötig
 
-- It won't be necessary.
-- Es wird nicht nötig sein.
+* It won't be necessary.
+* Es wird nicht nötig sein.
 
-- Necessary
-- Notwendig
+* Necessary
+* Notwendig
 
-- Werden = future for english "will"
-- Werden = to become, to be getting.
+* Werden = future for english "will"
+* Werden = to become, to be getting.
 
-- I'm tired.
-- Ich bin müde.
+* I'm tired.
+* Ich bin müde.
 
-- I will be tired.
-- Ich werde müde sein.
+* I will be tired.
+* Ich werde müde sein.
 
-- I'm getting tired.
-- Ich werde müde.
+* I'm getting tired.
+* Ich werde müde.
 
-- I will be getting tired.
-- Ich werde müde werden.
+* I will be getting tired.
+* Ich werde müde werden.
 
-- You will be too tired.
-- Sie werden zu müde sein.
+* You will be too tired.
+* Sie werden zu müde sein.
 
-- You will be soon getting tired.
-- Sie werden balt müde werden.
+* You will be soon getting tired.
+* Sie werden balt müde werden.
 
-- It is late.
-- Es its spät.
+* It is late.
+* Es its spät.
 
-- It's getting late.
-- Es wird spät.
+* It's getting late.
+* Es wird spät.
 
-- It will be very dark.
-- Es wird zu dunkel sein.
+* It will be very dark.
+* Es wird zu dunkel sein.
 
-- It is getting dark.
-- Es wird dunkel.
+* It is getting dark.
+* Es wird dunkel.
 
-- It will be soon getting very dark.
-- Es wird balt zu dunkel werden.
+* It will be soon getting very dark.
+* Es wird balt zu dunkel werden.
 
-- Werden = future for english "will"
-- Werden = to become, to be getting.
-- Wurde  = was getting
+* Werden = future for english "will"
+* Werden = to become, to be getting.
+* Wurde  = was getting
 
-- It was getting dark.
-- Es wurde dunkel.
+* It was getting dark.
+* Es wurde dunkel.
 
-- It was suddenly getting very dark.
-- Es wurde plötzlich sehr dunkel.
+* It was suddenly getting very dark.
+* Es wurde plötzlich sehr dunkel.
 
-- It would be very dark.
-- Es würde sehr dunkel sein.
+* It would be very dark.
+* Es würde sehr dunkel sein.
 
-- We were getting tired.
-- Wir wurden müde.
+* We were getting tired.
+* Wir wurden müde.
 
 
-***************
-=== AD 2.15 ===
-***************
-- Do you know why he can't to do it?
-- Wissen Sie warum er es nicht tun kann?
+AD 2.15 [***]
+======
+* Do you know why he can't to do it?
+* Wissen Sie warum er es nicht tun kann?
 
-- Do you know why he doesn't want to do it?
-- Wissen Sie warum er es nicht tun will.
+* Do you know why he doesn't want to do it?
+* Wissen Sie warum er es nicht tun will.
 
-- Can you tell me why he didn't want to do it?
-- Konnen Sie mir sagen warum er es nicht tun wolte?
+* Can you tell me why he didn't want to do it?
+* Konnen Sie mir sagen warum er es nicht tun wolte?
 
-- Do you know why he couldn't do it?
-- Wissen Sie warum er es nicht tun konnte?
+* Do you know why he couldn't do it?
+* Wissen Sie warum er es nicht tun konnte?
 
-- Knew = Wusste [don't use: habe gewusst]
+* Knew = Wusste [don't use: habe gewusst]
 
-- I didn't know.
-- Ich wusste nicht.
+* I didn't know.
+* Ich wusste nicht.
 
-- I would have known.
-- Ich hätte es gewusst.
+* I would have known.
+* Ich hätte es gewusst.
 
-- I wouldn't have known it, if you had not told me.
-- Ich hätte es nicht gewusst, wenn Sie es mir nicht gesagt hatten.
+* I wouldn't have known it, if you had not told me.
+* Ich hätte es nicht gewusst, wenn Sie es mir nicht gesagt hatten.
 
 
-=== AD 2.16 ===
-=== AD 2.17 ===
-=== AD 2.18 ===
-=== AD 2.19 ===
-=== AD 2.20 ===
+AD 2.16
+======
+
+
+AD 2.17
+======
+
+
+AD 2.18
+======
+
+
+AD 2.19
+======
+
+
+AD 2.20
+======
 
 
 ————————————————————————————————————————————————————————————————————————————|
