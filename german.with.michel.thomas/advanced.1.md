@@ -1,26 +1,33 @@
-—————————————————————————————
+|  |  |
+| ------- | --------------: |
 | machen  | to make         |
 | möchte  | would like to   |
-| werden  | will            |
+| werden  | will (future)   |
 | wollen  | will you please |
-—————————————————————————————
 
-—————————————————————————————
+
+|  |  |
+| ------------- | --------: |
 | have          | haben     |
 | had           | hatte     |
 | would have    | hätte     |
-—————————————————————————————
-| Will          | werden    |
-| Would         | würden    |
-—————————————————————————————
+|
+| will          | werden    |
+| would         | würden    |
+|
+| want          | wollen    | (Ich will)
+| wanted        | wolten    |
+|
 | can           | können    |
 | could (past)  | konnten   |
 | could (future)| Könnten   |
-————————————————————————————————————
-| could have    | hätten __ können |
-————————————————————————————————————
+|
+| could have    | hätten ... können |
 
-—————————————————————————————————————
+
+
+|  |
+| --------------------------------- |
 | - I would have it.                |
 | - Ich würde es haben.             |
 |                                   |
@@ -30,7 +37,7 @@
 |                                   |
 | - I could have done it.           |
 | - Ich hätte es tun können.        |
-—————————————————————————————————————
+
 
 AD 1.02
 ======

@@ -1,44 +1,48 @@
-—————————————————————————————
+|  |  |
+| ------- | --------------: |
 | machen  | to make         |
 | möchte  | would like to   |
 | werden  | will (future)   |
 | wollen  | will you please |
-—————————————————————————————
 
-—————————————————————————————
+
+|  |  |
+| ------------- | --------: |
 | have          | haben     |
 | had           | hatte     |
 | would have    | hätte     |
-—————————————————————————————
+|
 | had to        | musste    |
-—————————————————————————————
+|
 | will          | werden    |
 | would         | würden    |
-—————————————————————————————
+|
 | want          | wollen    | (Ich will)
 | wanted        | wolten    |
-—————————————————————————————
+|
 | can           | können    |
 | could (past)  | konnten   |
 | could (future)| Könnten   |
-—————————————————————————————————————
+|
 | could have    | hätten ... können |
 | should have   | hätten ... sollen |
 | would have    | hätten            |
-—————————————————————————————————————
+|
 | shall/should  | sollen    | (an order)
 | should        | sollten   | (advice or recommendation)
-—————————————————————————————————————————————————————————————————
-|# wollen works two ways                                        |
-|- as verb                                                      |
-|    - Ich habe ... gewolt.     (I would have ...)              |
-|    - Ich wolte ...            (I would have ...)              |
-|- as handle (like [hätten ... wollen])                         |
-|    - Ich habe es tun wollen.  (I have wanted to do it.)       |
-|    - Ich hätte es tun wollen. (I would have wanted to do it.) |
-—————————————————————————————————————————————————————————————————
 
-—————————————————————————————————————
+
+##### wollen works two ways
+- as verb
+    - Ich habe ... gewolt.     (I would have ...)
+    - Ich wolte ...            (I would have ...)
+- as handle (like [hätten ... wollen])
+    - Ich habe es tun wollen.  (I have wanted to do it.)
+    - Ich hätte es tun wollen. (I would have wanted to do it.)
+
+
+|  |
+| --------------------------------- |
 | - I would have it.                |
 | - Ich würde es haben.             |
 |                                   |
@@ -48,30 +52,33 @@
 |                                   |
 | - I could have done it.           |
 | - Ich hätte es tun können.        |
-—————————————————————————————————————
 
-—————————————————————————————————————
+
+|  |
+| --------------------------------- |
 | is getting / is becoming  | wird  |
 | was getting               | wurde |
-—————————————————————————————————————
 
-—————————————————————————
+
+|  |  |
+| --------- | --------: |
 | No        | Nie       |
 | Never     | Niemals   |
 | Nobody    | Niemand   |
-—————————————————————————
 
-—————————————————————————————————————————————————————
+
+|  |  |
+| ------------------------------------- | --------: |
 | to leave something somewhere / left   | Lassen    |
 | to let                                | Lassen    |
 | to get something done ~ let ...       | Lassen    |
-—————————————————————————————————————————————————————
 
-—————————————————————————————————————————————————————
+
+|  |  |
+| ------------------------------------- | --------: |
 | future for english "will"             | Werden    |
 | to become, to be getting.             | Werden    |
 | was getting                           | Wurde     |
-—————————————————————————————————————————————————————
 
 
 AD 2.01
@@ -94,13 +101,13 @@ AD 2.06
 
 AD 2.07
 ======
-—————————————————————————————
-| Ich soll                  |
-| Er soll                   |
-| Wir sollen                |
-| Sie sollen                |
-| Du sollst                 |
-—————————————————————————————
+|  |
+| ------------- |
+| Ich soll      |
+| Er soll       |
+| Wir sollen    |
+| Sie sollen    |
+| Du sollst     |
 
 * You should(shall) tell me. (have to / an order)
 * Sie sollen mir sagen.
