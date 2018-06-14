@@ -628,37 +628,34 @@ AD 1.23
 * Ich hätte es tun können.
 
 
-————————————————————————————————————————————————————————————————————————————|
-| Weil-situation                                                            |
-————————————————————————————————————————————————————————————————————————————|
-|-> Because (weil)                                                          |
-|   - Because I must have it                                                |
-|   - weil Ich es haben muss                                                |
-|                                                                           |
-|-> "um wie viel Uhr" found in the middle of a sentence                     |
-|   - Can you please tell me, at what time can I have it?                   |
-|   - Um wie viel Uhr Ich es haben kann?                                    |
-|                                                                           |
-|   - I cannot tell you now why I must have it today                        |
-|   - Ich kann Ihnen nicht jetzt sagen, warum ich es heute haben muss.      |
-|                                                                           |
-|-> "wann" found in the middle of a sentence                                |
-|   -                                                                       |
-|                                                                           |
-|-> "wenn" triggers a weil-situation                                        |
-|   -                                                                       |
-|                                                                           |
-|-> "dass" triggers a weil-situation                                        |
-|                                                                           |
-|                                                                           |
-|-> "wo" triggers a weil-situation                                          |
-|                                                                           |
-|                                                                           |
-|-> "warum" triggers a weil-situation                                       |
-|   -                                                                       |
-|                                                                           |
-|# Another word for "because" is "da"                                       |
-|-> "da" triggers a weil-situation                                          |
-|   - Because I was not there.                                              |
-|   - da Ich nicht da war.                                                  |
-————————————————————————————————————————————————————————————————————————————|
+
+#### Weil-situation
+* Because (weil)
+   - Because I must have it
+   - weil Ich es haben muss
+
+* "um wie viel Uhr" found in the middle of a sentence
+   - Can you please tell me, at what time can I have it?
+   - Um wie viel Uhr Ich es haben kann?
+
+   - I cannot tell you now why I must have it today
+   - Ich kann Ihnen nicht jetzt sagen, warum ich es heute haben muss
+
+* "wann" found in the middle of a sentence
+
+
+* "wenn" triggers a weil-situation
+
+
+* "dass" triggers a weil-situation
+
+
+* "wo" triggers a weil-situation
+
+
+* "warum" triggers a weil-situation
+
+#### Another word for "because" is "da"
+* "da" triggers a weil-situation
+   - Because I was not there.
+   - da Ich nicht da war.
