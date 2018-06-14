@@ -11,17 +11,17 @@
 | have          | haben     |
 | had           | hatte     |
 | would have    | hätte     |
-|
+|  |  |
 | will          | werden    |
 | would         | würden    |
-|
+|  |  |
 | want          | wollen    | (Ich will)
 | wanted        | wolten    |
-|
+|  |  |
 | can           | können    |
 | could (past)  | konnten   |
 | could (future)| Könnten   |
-|
+|  |  |
 | could have    | hätten ... können |
 
 

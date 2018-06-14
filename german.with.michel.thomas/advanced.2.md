@@ -11,23 +11,23 @@
 | have          | haben     |
 | had           | hatte     |
 | would have    | hätte     |
-|
+|  |  |
 | had to        | musste    |
-|
+|  |  |
 | will          | werden    |
 | would         | würden    |
-|
+|  |  |
 | want          | wollen    | (Ich will)
 | wanted        | wolten    |
-|
+|  |  |
 | can           | können    |
 | could (past)  | konnten   |
 | could (future)| Könnten   |
-|
+|  |  |
 | could have    | hätten ... können |
 | should have   | hätten ... sollen |
 | would have    | hätten            |
-|
+|  |  |
 | shall/should  | sollen    | (an order)
 | should        | sollten   | (advice or recommendation)
 
