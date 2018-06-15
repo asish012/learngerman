@@ -497,7 +497,47 @@ AD 2.19
 
 AD 2.20
 ======
-*
+* I have waited. (not going/coming, so not Ich bin gewartet)
+* Ich habe gewartet.
+
+* I have come.
+* Ich bin gekommen.
+
+* I have waited for you.
+* Ich habe auf Sie gewartet.
+
+* He has waited for me.
+* Er hat auf mich gewarted.
+
+* How long did you wait? How long have you waited?
+* Wie lange haben Sie gewartet?
+
+* He arrived today.
+* Er ist heute angekommen.
+
+* He would have arrived today.
+* Er wäre heute angekommen.
+
+* He had arrived today.
+
+* I have been there.
+* Ich bin da gewesen.
+
+* I would have been there.
+* Ich wäre dort gewesen.
+
+* If I had been there last night, I would have seen it. (after If, "hätte ... wäre")
+* Wenn Ich da gesternabend gewesen wäre, hätte Ich es gesehen.
+
+* I have not seen you. Because I was not there.
+* Ich habe Sie nicht gesen. Weil, Ich nicht da war.
+
+##### because = da
+* Because I was not there.
+* Da, Ich nicht da war.
+
+* Because I don't understand it.
+* Da Ich es nicht wusste.
 
 
 #### Weil-situation
