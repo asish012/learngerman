@@ -17,6 +17,7 @@
 | will          | werden    |
 | would         | würden    |
 | would be      | wäre      | (instead of "würde dunkel sein", use "wäre dunkel")
+| might be      | wäre      |
 |               |           |
 | want          | wollen    | (Ich will)
 | wanted        | wolten    |
@@ -31,6 +32,8 @@
 |               |           |
 | shall/should  | sollen    | (an order)
 | should        | sollten   | (advice or recommendation)
+|               |           |
+| have been     | gewesen   |
 
 
 ##### wollen works two ways
