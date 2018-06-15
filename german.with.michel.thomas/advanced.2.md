@@ -16,6 +16,7 @@
 |               |           |
 | will          | werden    |
 | would         | würden    |
+| would be      | wäre      | (instead of "würde dunkel sein", use "wäre dunkel")
 |               |           |
 | want          | wollen    | (Ich will)
 | wanted        | wolten    |
@@ -384,22 +385,119 @@ AD 2.15 [***]
 
 AD 2.16
 ======
+##### For going and coming, dive from present (be) to describe past event
+##### e.g. Where are you gone? | I'm come to tell you.
+##### e.g. I would have gone ~ I would be gone
+
+* I'm gone.
+* Ich bin gegangen.
+
+* Ich bin dort hin gegangen.
+
+* We are gone.
+* Wir sind gegangen.
+
+* We went their last night.
+* Wir sind gestern abend dorthin gegangen.
+
+* When did you go there?
+* Wan sind Sie dorthin gegangen?
+
+* Why didn't you go there with me last night?
+* Warum sind Sie nicht mit mir gestern abend dorthin gegangen?
+
+* I'm going away.
+* Ich gehe weg.
+
+* We are gong back.
+* Wir gehen zuruch.
+
+* We went back.
+* Wir sind zuruchgagengen.
+
+* He went away.
+* Er ist weggegangen.
+
+* He came.
+* Er ist gecommen.
+
+* He came with us.
+* Er ist mit uns gecommen.
+
+* He came back.
+* Er ist zuruchgecommen.
+
+* He didn't come back yet.
+* Er ist noch nicht zuruchgecommen.
+
+* At what time did you come back?
+* Um wie viel uhr sind Sie zuruchgecommen?
+
+* He will arrive tonight.
+* Er wird heute abend ankommen.
+
+* He arrives tonight.
+* Er kommt heute abend an.
+
+* He arrives next week.
+* Er kommt nexte woche an.
+
+* He arrived this afternoon.
+* Er ist heute nachmittag angekommen.
+
+* At what time did you arrive?
+* Um wie viel uhr sind Sie angekommen?
 
 
 AD 2.17
 ======
+* It would be possible.
+* Es würde möglich sein.
+
+##### Would be = wäre
+* It would be possible.
+* Es wäre möglich.
+
+* It wouldn't be possible.
+* Es wäre nicht möglich.
+
+##### actually "Es wäre" = might be
+
+* It wouldn't be possible to do it that way.
+* Es wäre nicht möglich es so zu tun.
 
 
 AD 2.18
 ======
+##### Have been = gewesen
+* I have been.
+* Ich bin gewesen.
+
+* We have been there last night.
+* Wir sind gestern abend dort gewesen.
+
+* How long have you been there?
+* Wie lange sind Sie dort gewesen?
+
+* How long were you there?
+* Wie lange waren Sie da?
 
 
 AD 2.19
 ======
+* I would have waited for you.
+* Ich hätte auf Sie gewartet.
+
+* I would have gone there with you last night. (~ I would be gone ...)
+* Ich wäre mit ihnen gesternabend dorthin gegangen.
+
+* He would have come with us.
+* Er wäre mit uns gekommen.
 
 
 AD 2.20
 ======
+*
 
 
 #### Weil-situation
