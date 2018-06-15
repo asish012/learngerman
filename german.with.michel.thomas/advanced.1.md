@@ -1,4 +1,4 @@
-|  |  |
+|         |                 |
 | ------- | --------------: |
 | machen  | to make         |
 | möchte  | would like to   |
@@ -6,27 +6,27 @@
 | wollen  | will you please |
 
 
-|  |  |
+|               |           |
 | ------------- | --------: |
 | have          | haben     |
 | had           | hatte     |
 | would have    | hätte     |
-|  |  |
+|               |           |
 | will          | werden    |
 | would         | würden    |
-|  |  |
+|               |           |
 | want          | wollen    | (Ich will)
 | wanted        | wolten    |
-|  |  |
+|               |           |
 | can           | können    |
 | could (past)  | konnten   |
 | could (future)| Könnten   |
-|  |  |
+|               |           |
 | could have    | hätten ... können |
 
 
 
-|  |
+|                                   |
 | --------------------------------- |
 | - I would have it.                |
 | - Ich würde es haben.             |
@@ -443,12 +443,11 @@ AD 1.15 [would have = hätten]
 * Ich würde nicht die zeit haben es zu tun.
 * Ich würde keine zeit haben es zu tun.
 
-* would have - hätten
-————————————————————————————
-| have       | haben       |
-| had        | hatte       |
-| would have | hätte       |
-————————————————————————————
+|               |       |
+| ------------- | ----- |
+| have          | haben |
+| had           | hatte |
+| would have    | hätte |
 
 * I wouldn't have the time to do it. (may not have the time)
 * Ich hätte keine die zeit es zu tun.

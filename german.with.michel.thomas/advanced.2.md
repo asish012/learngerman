@@ -1,4 +1,4 @@
-|  |  |
+|         |                 |
 | ------- | --------------: |
 | machen  | to make         |
 | möchte  | would like to   |
@@ -6,28 +6,28 @@
 | wollen  | will you please |
 
 
-|  |  |
+|               |           |
 | ------------- | --------: |
 | have          | haben     |
 | had           | hatte     |
 | would have    | hätte     |
-|  |  |
+|               |           |
 | had to        | musste    |
-|  |  |
+|               |           |
 | will          | werden    |
 | would         | würden    |
-|  |  |
+|               |           |
 | want          | wollen    | (Ich will)
 | wanted        | wolten    |
-|  |  |
+|               |           |
 | can           | können    |
 | could (past)  | konnten   |
 | could (future)| Könnten   |
-|  |  |
+|               |           |
 | could have    | hätten ... können |
 | should have   | hätten ... sollen |
 | would have    | hätten            |
-|  |  |
+|               |           |
 | shall/should  | sollen    | (an order)
 | should        | sollten   | (advice or recommendation)
 
@@ -41,7 +41,7 @@
     - Ich hätte es tun wollen. (I would have wanted to do it.)
 
 
-|  |
+|                                   |
 | --------------------------------- |
 | - I would have it.                |
 | - Ich würde es haben.             |
@@ -54,27 +54,27 @@
 | - Ich hätte es tun können.        |
 
 
-|  |
+|                                   |
 | --------------------------------- |
 | is getting / is becoming  | wird  |
 | was getting               | wurde |
 
 
-|  |  |
+|           |           |
 | --------- | --------: |
 | No        | Nie       |
 | Never     | Niemals   |
 | Nobody    | Niemand   |
 
 
-|  |  |
+|                                       |           |
 | ------------------------------------- | --------: |
 | to leave something somewhere / left   | Lassen    |
 | to let                                | Lassen    |
 | to get something done ~ let ...       | Lassen    |
 
 
-|  |  |
+|                                       |           |
 | ------------------------------------- | --------: |
 | future for english "will"             | Werden    |
 | to become, to be getting.             | Werden    |
@@ -101,7 +101,7 @@ AD 2.06
 
 AD 2.07
 ======
-|  |
+|               |
 | ------------- |
 | Ich soll      |
 | Er soll       |
