@@ -1,4 +1,4 @@
-### -ieren verb ###
+# -ieren verb #
 **dive form (with have) of *-ieren* verbs transform to *-iert***
 - transportieren
 - importieren
@@ -40,13 +40,13 @@
 **whilst doing something = *beim <full_verb>***
 **whilst doing something = *beim <zu + full_verb>***
 
-### time > manner > place    ###
-### wenn >  wie   > wo/wohin ###
+# time > manner > place    #
+# wenn >  wie   > wo/wohin #
 - what sort of activities can man undertake in Vienna this evening?
 - was für aktivitäten kann man heute abend in Wien unternehmen?
 - was gibt zu tun heir?
 
-### -tät ###
+# -tät #
 - universität
 - spezialität
 - mentalität
