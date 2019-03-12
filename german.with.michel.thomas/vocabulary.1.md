@@ -46,6 +46,7 @@
 - was für aktivitäten kann man heute abend in Wien unternehmen?
 - was gibt zu tun heir?
 
+
 # -tät #
 - universität
 - spezialität
@@ -71,4 +72,38 @@
 
 - The quality of art exhibition in Berlin is superb.
 - Die qualität der kunstausstellungen in Berlin ist großartig.
+
+
+# -heit | -keit (-ity/-ness/-hood) #
+
+| German        | English              |
+| ------------- | -------------------- |
+| war nehmen    | take the opportunity |
+| möglikeit     | possibility          |
+| gelegenheit   | opportunity          |
+| notwendigkeit | necessity            |
+| heiter        | cheerful             |
+| heiterkeit    | cheerfulness         |
+| schwierig     | hard                 |
+| schwierigkeit | difficulty           |
+| gemütlich     | cozy/comfortable     |
+| gemütlichkeit | cozyness/comfortness |
+| gemütlichkeit | cozyness/comfortness |
+| pünktlich     | punctual             |
+| pünktlichkeit | punctuality          |
+| fähig         | able                 |
+| fähigkeit     | ability              |
+| dankbar       | thankful             |
+| dankbarkeit   | gratitute            |
+| ausdrücken    | express              |
+
+- Take the opportunity.
+- Nehmen Sie die gelegenheit war.
+- Take the opportunity to visit the sites in Berlin with me.
+- Nehmen Sie die gelegenheit war die sehenswürdigkeiten in Berlin zu besuchen.
+- I'd like to take the opportunity to visit the Brandenburger Tor.
+- Ich möchte die gelegenheit wahrnehmen das Brandenburger Tor zu besuchen.
+
+- Is it possible to visit the rest of the Berlin wall?
+- Besteht die möglichkeit die reste der Berliner Mauer zu besuchen?
 
