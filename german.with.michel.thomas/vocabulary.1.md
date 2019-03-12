@@ -74,7 +74,7 @@
 - Die qualität der kunstausstellungen in Berlin ist großartig.
 
 
-# -heit | -keit (-ity/-ness/-hood) #
+# -keit | -heit (-ity/-ness/-hood) #
 
 | German        | English              |
 | ------------- | -------------------- |
@@ -95,7 +95,10 @@
 | fähigkeit     | ability              |
 | dankbar       | thankful             |
 | dankbarkeit   | gratitute            |
-| ausdrücken    | express              |
+|               |                      |
+| kleinigkeit   | small thing          |
+| süßigkeit     | sweet thing          |
+| machbarkeit   | physibility          |
 
 - Take the opportunity.
 - Nehmen Sie die gelegenheit war.
@@ -107,3 +110,39 @@
 - Is it possible to visit the rest of the Berlin wall?
 - Besteht die möglichkeit die reste der Berliner Mauer zu besuchen?
 
+- Ich brauche jetzt eine kleine süßigkeit.
+
+* drücken
+- ausdrücken - express
+- sich ausdrücken - express yourself
+- der ausdrück - expression
++ eindrücken - impress
++ der eindrücken - impression
+
+# -bar (-able) #
+- machbar - doable
+
+<!-- cd-2-track-4 -->
+# -heit (-ness/-hood) #
+
+| German     | English   |
+| ---------- | --------- |
+| gesundheit |           |
+| krankheit  | illness   |
+| schönheit  | beauty    |
+| freiheit   | freadom   |
+| einheit    | unity     |
+| einheit    | unity     |
+| sicherheit | security  |
+| dunkelheit | darkness  |
+| kindheit   | childhood |
+| vergangenheit   | childhood |
+
+**un- : opposite**
+| German      | English |
+| ----------- | ------- |
+| unmöglich   |         |
+| unglücklich |         |
+
+
+# -ung #
